@@ -80,7 +80,7 @@ function units_load()
       addunit = addu(addunit,"lb",453.59237e-3);
       addunit = addu(addunit,"lbm",453.59237e-3);
       addunit = addu(addunit,"cwt",45.359237);
-      addunit = addu(addunit,"cwt_US",)45.359237;
+      addunit = addu(addunit,"cwt_US",45.359237);
       addunit = addu(addunit,"cwt_UK",50.80234544);
       addunit = addu(addunit,"ton",907.18474);
       addunit = addu(addunit,"ton_US",907.18474);
